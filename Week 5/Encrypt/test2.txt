@@ -1,0 +1,1 @@
+A file filter reads an input file, transforms it in some way and writes the results to an output file. Write an abstract filter class that defines a pure virtual function for transforming a character. Then create a subclass for each of these transformations. 
